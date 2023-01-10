@@ -2,6 +2,7 @@
 
 This folder contains all the Fantasy Premier League statistical data for each player and game in the Premier League. 
 
+The analysis will be done in the following phases:<br>
 Phase 1: Sifting through FPL APIs to get data into a single readable dataframe.<br>
 Phase 2: Creating high level insights for a dashboard (Ex: Top scorers,assist; Top Expected goal involvements etc)<br>
 Phase 3: Building tableau dashboard to visualise the high level insights.<br>
